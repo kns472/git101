@@ -16,5 +16,3 @@ $ cd /e/Coding/KU/Lab
 $ rm /e/Coding/KU/Lab/Lab3.c
 ```
 การลบด้วย rm จะเป็นการลบเเบบไม่สามารถกู้คืนได้
-
-![Operator Precedence](/Coding/KU/operators.png)
